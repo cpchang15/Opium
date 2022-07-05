@@ -10,5 +10,6 @@ Girl with a Pearl Earring (Dutch: Meisje met de parel) is an oil painting by Dut
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg"
        label="Bernini"
-       description="Title">
+       description="Title"
+       fit="contain">
       

@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "ANNOTATION?!",
+        "value": "annotation please",
         "purpose": "commenting"
       }
     ],
@@ -13,10 +13,10 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:283.5000305175781,1884.0938720703125,456.7500305175781,397.6876220703125"
+        "value": "xywh=pixel:389.8125305175781,1860.4688720703125,315.0000305175781,279.5626220703125"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#11edcceb-c2d8-4ef0-a14b-8e1493a8b238"
+    "id": "#3633a862-8d1a-4c43-96b6-9f72f9e6bca5"
   }
 ]
